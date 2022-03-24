@@ -1,9 +1,9 @@
 # Frontend Developer / *Stanislav Kudriavtsev*/
 ##  Summary
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a "switcher" who has changed his life and field of activity for web-development.  
-Proficient in an assortment of technologies, including <em>JavaScript, React, Redux</em>.  
-Able to effectively self-manage during independent projects, as well as collaborate in a team setting.  
-Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>.  
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a "switcher" who has changed his life and field of activity for web-development.
+Proficient in an assortment of technologies, including <em>JavaScript, React, Redux</em>.
+Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>.
 
 
 ##  Contacts
@@ -14,7 +14,7 @@ Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>
 |  linkedIn |	[stanislav-frontend](https://www.linkedin.com/in/stanislav-frontend/) |
 |  email     |	stas.webdev@yahoo.com                                                 |
 |  github    |	[stas-webdeveloper](https://github.com/stas-webdeveloper)             |
-|  discord  |	:)Stas (@stas-webdeveloper)                                           |
+|  discord  |	Stanislav (@stas-webdeveloper)                                           |
 
 
 -----
@@ -26,7 +26,7 @@ Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>
    * ✓JavaScript (>ES6) & TypeScript
    * ✓React & Redux
    * ✓NodeJS (basics)
-   * ✓Webpack  
+   * ✓Webpack
    * ✓Git
 
 </samp>
@@ -59,7 +59,7 @@ Freelance, Kaliningrad — Frontend Developer
 # Languages:
 
    * :ru: Russian - native speaker
-   * :uk: English - B1/B2  
+   * :uk: English - B1/B2
 
 
   [<img width=200 alt="my efset sertificate" src="assets/The official EF SET Certificate™ _ Stanislav Kudriavtsev.jpg" />][efset]
