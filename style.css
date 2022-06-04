@@ -188,20 +188,28 @@ a {
     background-size: contain;
     background-image: url('assets/icons/discord.svg');
 }
+
 .contact-item:nth-child(2)::before {
     background-image: url('assets/icons/telega.svg');
 }
+
 .contact-item:nth-child(3)::before {
     background-image: url('assets/icons/email.svg');
 }
+
 .contact-item:nth-child(4)::before {
     background-image: url('assets/icons/pointer.svg');
+}
+
+.contact-item:nth-child(6)::before {
+    background-image: url('assets/icons/email.svg');
 }
 
 .eng {
     display: flex;
     align-items: center;
 }
+
 .efset {
     width: 8rem;
     margin-left: 33%;
@@ -209,6 +217,7 @@ a {
     transform: scale(1);
     transition: all .5s ease
 }
+
 .efset:hover {
     transform: scale(2.1)
 }
@@ -272,11 +281,13 @@ a {
 .footer-link:hover::before {
     transform: scale(1.1)
 }
+
 .footer-link i {
     display: inline-block;
     transform: rotate(0);
     transition: all .3s;
 }
+
 .footer-link:hover i {
     transform: rotate(-3deg);
 }
@@ -289,6 +300,7 @@ a {
 .lang-title {
     margin-bottom: 0;
 }
+
 .lang {
     width: 21px;
     margin-right: 15px;
@@ -310,9 +322,19 @@ a {
     margin: auto;
     background-color: #e2e2e2;
 }
+
+.contact-item--divider {
+    width: 100%;
+    height: 2px;
+    margin: auto;
+    margin-bottom: 7px;
+    background-color: #e2e2e2;
+}
+
 .point {
     background-color: #d8cfd0;
 }
+
 @keyframes smoothy {
     from {
         width: 0;
