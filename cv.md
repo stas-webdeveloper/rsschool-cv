@@ -18,3 +18,31 @@ Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>
 |                  discord                  | Stanislav (@stas-webdeveloper)                                        |
 
 ---
+
+## Skills
+
+<samp>
+
+- ✓HTML5 & CSS3
+- ✓JavaScript (>ES6) & TypeScript
+- ✓React & Redux
+- ✓NodeJS (basics)
+- ✓Webpack
+- ✓Git
+
+</samp>
+
+## Code Example
+
+<pre>
+  <code class="code">
+    function finalGrade (exam, projects) {
+        if(exam > 90 || projects > 10) return 100;
+        if(exam > 75 & projects >= 5) return 90;
+        if(exam > 50 & projects >= 2) return 75;
+        return 0;
+    }
+  </code>
+</pre>
+
+---
