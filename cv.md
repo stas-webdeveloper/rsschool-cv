@@ -46,3 +46,45 @@ Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>
 </pre>
 
 ---
+
+## Experience
+
+Freelance, Kaliningrad — Frontend Developer
+_Jan 2019 - PRESENT_, https://mysite.com
+
+- TASKS
+  - Worked with honesty and integrity every step of the way.
+  - Performed thorough research for planning purposes
+  - Worked well independently
+  - Fully engaged with team members to achieve the highest levels of productivity.
+- ACCOMPLISHMENTS
+  - Dramatically increased speed of UI development using atomic, scalable CSS
+  - Improved accuracy, coverage, and speed of automated tests.
+
+## Education
+
+- Higher education
+  - Highest Military Command Communication College, Location — Oryol, Russia
+    _Aug 1984 - Aug 1988_
+    Engineer for the operation of radio and electrical conductive communications
+- Online learning
+  - Glo Academy
+    _Aug 2018 - Dec 2018_
+    ✓ HTML/ CSS/ JS Basics
+
+---
+
+# Languages:
+
+- :ru: Russian - native speaker
+- :uk: English - B1/B2
+
+[<img width=200 alt="my efset sertificate" src="assets/efset.jpg" />][efset]
+
+**:heart: Hobbies:**
+
+- Grandson
+- Languages (JS, English, Spanish)
+- Life as is...
+
+[efset]: https://www.efset.org/cert/JS2U4M
