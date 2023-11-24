@@ -7,6 +7,15 @@ Proficient in an assortment of technologies, including <em>JavaScript, React, Re
 Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
 Fan of <em>unit tests, functional programming</em> and <em>typed interfaces</em>.
 
+<details>
+  <summary>More on my motivation and goals</summary>
+
+Growing up as a millennial, I had a phone in my hands and was constantly engaged with the internet and social media, which significantly impacted my life. It opened up many possibilities I would not have had otherwise.
+
+I experienced how the internet has been a disruptive innovation and a robust social equalizer. As a curious and grateful consumer, I am eventually <mark>becoming</mark> a creator myself. My professional goal is to make the web a better place for everyone, one page at a time!
+
+</details>
+
 ## Contacts
 
 | ![my Logo](assets/Logo_450.jpg "My Logo") | ![my Face](assets/MyFace_cr_280.jpg "I Am formal")                    |
